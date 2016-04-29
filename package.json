@@ -1,0 +1,17 @@
+{
+  "name": "mysql-express-session",
+  "version": "0.5.0",
+  "description": "an implement of express-session and persistent the session data with mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "express",
+    "session",
+    "mysql",
+    "mysql-express-session"
+  ],
+  "author": "pigo",
+  "license": "MIT"
+}
