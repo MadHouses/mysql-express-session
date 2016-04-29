@@ -1,5 +1,8 @@
 # mysql-express-session
 
+![npm download](https://img.shields.io/npm/dt/mysql-express-session.svg)
+![npm version](https://img.shields.io/npm/v/mysql-express-session.svg) 
+
 A MySQL session store for [express.js](http://expressjs.com/).
 
 
