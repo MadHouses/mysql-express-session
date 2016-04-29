@@ -1,7 +1,8 @@
 # mysql-express-session
 
 ![npm download](https://img.shields.io/npm/dt/mysql-express-session.svg)
-![npm version](https://img.shields.io/npm/v/mysql-express-session.svg) 
+![npm version](https://img.shields.io/npm/v/mysql-express-session.svg)
+[![mysql-express-session](https://img.shields.io/bithound/dependencies/github/rexxars/sse-channel.svg?maxAge=2592000)]()
 
 A MySQL session store for [express.js](http://expressjs.com/).
 
@@ -209,3 +210,7 @@ npm test
 
 
 ## Changelog
+* **v0.5.0** add maxAge and expired filed for express-session
+
+## License
+![MIT](https://img.shields.io/npm/l/mysql-express-session.svg)
